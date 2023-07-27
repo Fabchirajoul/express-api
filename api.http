@@ -15,3 +15,25 @@ content-type: application/json
 	"language" : "zulu",
 	"greeting" : "Sawubona"
 }
+
+# ZULU
+###
+
+POST https://greeting-api-pqex.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "zulu",
+	"greeting" : "Sawubona"
+}
+
+# XHOSA
+###
+
+POST https://greeting-api-pqex.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "zulu",
+	"greeting" : "Sawubona"
+}
